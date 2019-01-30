@@ -1,3 +1,4 @@
+<h1>Using Angular 6 framework to build custom sites in AgileApps</h1>
 <p>Can we develop AgileApps Site using angular 6 ? The answer is well yes, we can! In this article, we will see how to build AgileApps sites with Angular 6+. Towards the end of the article there is a link provided to a sample application.</p>
 
 <h2>Requirements</h2>
